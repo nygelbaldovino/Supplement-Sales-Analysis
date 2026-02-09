@@ -1,9 +1,9 @@
 # Health Supplement Sales Analysis (2020-2024)
 
-![Sales Trends](https://img.shields.io/badge/Sales-Growth-2ea44f)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -43,3 +43,19 @@ Supplement sales are distributed across various platforms and geographic markets
 ```python
 1. Data Collection → 2. Cleaning & Preprocessing → 3. Exploratory Analysis → 
 4. Trend Identification → 5. Visualization → 6. Insight Generation
+```
+---
+
+## Results & Business Recommendations
+**Key Findings:**
+- The UK shows the highest return rate and volatile revenue, while the USA has the lowest returns with steady growth. Canada is the most profitable location.
+- Pre-Workout is a top seller but has one of the highest return rates.
+- Seasonal Patterns: Sales dip in February, April, and November.
+- iHerb leads slightly in sales, with all three platforms showing consistently low return rates.
+
+**Strategic Recommendations:**
+- Address UK Market Issues. Investigate fulfillment and customer satisfaction to reduce the high return rate.
+- Introduce premium bundles and confidently price higher for quality items.
+- Run targeted promotions during low-season months (February, April, November).
+
+---
